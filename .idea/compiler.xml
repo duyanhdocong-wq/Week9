@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="math-utils-bai1" />
+        <module name="math-utils-bai3" />
+        <module name="math-utils-bai4" />
+        <module name="math-utils-bai5" />
+        <module name="bank-system-quality" />
+        <module name="math-utils-bai6" />
+        <module name="math-utils-bai7" />
+        <module name="math-utils-bai8" />
+        <module name="math-utils-bai9" />
+        <module name="shipping-app" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
