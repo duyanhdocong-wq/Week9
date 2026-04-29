@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bai4/Bai4.iml" filepath="$PROJECT_DIR$/Bai4/Bai4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Bai6/Bai6.iml" filepath="$PROJECT_DIR$/Bai6/Bai6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Bai7/Bai7.iml" filepath="$PROJECT_DIR$/Bai7/Bai7.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DoCongDuyAnh_25020007_Week9.iml" filepath="$PROJECT_DIR$/.idea/DoCongDuyAnh_25020007_Week9.iml" />
     </modules>
   </component>
