@@ -1,10 +1,15 @@
 #!/bin/bash
-echo "--- Dang su dung Maven de build va test ---"
+echo "--- Dang kiem tra: Dinh dang code & Logic Test ---"
 
-mvn clean test
+# Dung 'verify' de chay ca Checkstyle (dinh dang) va Test (logic)
+mvn clean verify
 
 if [ $? -eq 0 ]; then
-    echo "--- BUILD SUCCESSFUL ---"
+    echo "-------------------------------------------------------"
+    echo "--- [SUCCESS] ---"
+    echo "-------------------------------------------------------"
 else
-    echo "--- BUILD FAILED ---"
+    echo "-------------------------------------------------------"
+    echo "--- [FAILED] ---"
+    echo "-------------------------------------------------------"
 fi
