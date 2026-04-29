@@ -11,4 +11,10 @@ public class MathUtils {
         return a / b;
     }
 
+    // Lỗi: Tên biến bắt đầu bằng chữ hoa, thiếu khoảng trắng quanh toán tử
+    public int Add(int a,int b){
+        int Result=a+b;
+        return Result;
+    }
+
 }
